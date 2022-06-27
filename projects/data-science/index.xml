@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📊 Learn Data Science | UCPH Popgen Group</title><link>https://popgendk.github.io/courses/data-science/</link><atom:link href="https://popgendk.github.io/courses/data-science/index.xml" rel="self" type="application/rss+xml"/><description>📊 Learn Data Science</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://popgendk.github.io/courses/data-science/featured.jpg</url><title>📊 Learn Data Science</title><link>https://popgendk.github.io/courses/data-science/</link></image><item><title>Python basics</title><link>https://popgendk.github.io/courses/data-science/python/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/courses/data-science/python/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📊 Learn Data Science | UCPH Popgen Group</title><link>https://popgendk.github.io/projects/data-science/</link><atom:link href="https://popgendk.github.io/projects/data-science/index.xml" rel="self" type="application/rss+xml"/><description>📊 Learn Data Science</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://popgendk.github.io/projects/data-science/featured.jpg</url><title>📊 Learn Data Science</title><link>https://popgendk.github.io/projects/data-science/</link></image><item><title>Python basics</title><link>https://popgendk.github.io/projects/data-science/python/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/projects/data-science/python/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>
@@ -25,7 +25,7 @@
 &lt;details class="spoiler " id="spoiler-3">
 &lt;summary>Is Python case-sensitive?&lt;/summary>
 &lt;p>Yes&lt;/p>
-&lt;/details></description></item><item><title>Visualization</title><link>https://popgendk.github.io/courses/data-science/visualization/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/courses/data-science/visualization/</guid><description>&lt;p>Learn how to visualize data with Plotly.&lt;/p>
+&lt;/details></description></item><item><title>Visualization</title><link>https://popgendk.github.io/projects/data-science/visualization/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/projects/data-science/visualization/</guid><description>&lt;p>Learn how to visualize data with Plotly.&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>
@@ -44,7 +44,7 @@
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">fig&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">px&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">bar&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">data_canada&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;year&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">y&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;pop&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">fig&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">show&lt;/span>&lt;span class="p">()&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
-&lt;/details></description></item><item><title>Statistics</title><link>https://popgendk.github.io/courses/data-science/stats/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/courses/data-science/stats/</guid><description>&lt;p>Introduction to statistics for data science.&lt;/p>
+&lt;/details></description></item><item><title>Statistics</title><link>https://popgendk.github.io/projects/data-science/stats/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/projects/data-science/stats/</guid><description>&lt;p>Introduction to statistics for data science.&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>

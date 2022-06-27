@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🙊 Population Structure Inference | UCPH Popgen Group</title><link>https://popgendk.github.io/projects/population-structure/</link><atom:link href="https://popgendk.github.io/projects/population-structure/index.xml" rel="self" type="application/rss+xml"/><description>🙊 Population Structure Inference</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://popgendk.github.io/projects/population-structure/featured.jpg</url><title>🙊 Population Structure Inference</title><link>https://popgendk.github.io/projects/population-structure/</link></image><item><title>PCAone</title><link>https://popgendk.github.io/projects/population-structure/pcaone/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/projects/population-structure/pcaone/</guid><description>&lt;p>PCAone is the only one PCA tool you need.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 mins&lt;/p>
+&lt;h2 id="quick-start">Quick Start&lt;/h2>
+&lt;details class="spoiler " id="spoiler-1">
+&lt;summary>which is the fastest tool to perform PCA?&lt;/summary>
+&lt;p>PCAone!&lt;/p>
+&lt;/details></description></item><item><title>Haplonet</title><link>https://popgendk.github.io/projects/population-structure/haplonet/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/projects/population-structure/haplonet/</guid><description>&lt;p>Haplonet takes phased genotype as input to infer global ancestry.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
+&lt;h2 id="quick-start">Quick Start&lt;/h2>
+&lt;details class="spoiler " id="spoiler-1">
+&lt;summary>which is the fastest tool to perform PCA?&lt;/summary>
+&lt;p>PCAone!&lt;/p>
+&lt;/details></description></item><item><title>Phaseless</title><link>https://popgendk.github.io/projects/population-structure/phaseless/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/projects/population-structure/phaseless/</guid><description>&lt;p>Phaseless doesn&amp;rsquo;t require phased data and beats Haplonet.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
+&lt;h2 id="quick-start">Quick Start&lt;/h2>
+&lt;details class="spoiler " id="spoiler-1">
+&lt;summary>which is the fastest tool to perform PCA?&lt;/summary>
+&lt;p>PCAone!&lt;/p>
+&lt;/details></description></item><item><title>ADMIXone</title><link>https://popgendk.github.io/projects/population-structure/admixone/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://popgendk.github.io/projects/population-structure/admixone/</guid><description>&lt;p>PCA and Admixture all in one.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
+&lt;h2 id="quick-start">Quick Start&lt;/h2>
+&lt;details class="spoiler " id="spoiler-1">
+&lt;summary>which is the fastest tool to perform PCA?&lt;/summary>
+&lt;p>PCAone!&lt;/p>
+&lt;/details></description></item></channel></rss>
